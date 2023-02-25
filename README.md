@@ -1,3 +1,3 @@
 # tesGitHub
-tes git hub
-  ini adalah readme
+tes git hub,
+ini adalah readme
